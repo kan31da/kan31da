@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 
 ### I'm Vladislav Vladovski
 
@@ -34,7 +34,7 @@ I'm a passionate developer and engineer who loves programming. Here's a little a
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kan31da&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan31da&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan31da&layout=compact&theme=tokyonight)]
 
 ---
 
