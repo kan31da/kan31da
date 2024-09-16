@@ -7,13 +7,6 @@ I’m a full-stack developer with a passion for technology and programming. I en
 - 💬 **Ask me about**: Networking (routing, firewall setup), Scripting (Bash, PowerShell), and other tech-related topics!
 - 📫 **How to reach me**: [vladislavvladovski@gmail.com](mailto:vladislavvladovski@gmail.com)
 ---
-
-### 📊 GitHub Stats and Languages Stats
-<p align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=kan31da&show_icons=true&theme=tokyonight" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kan31da&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
-</p>
-
 ### 🛠️ Languages and Tools
 
 #### **Programming Languages:**
@@ -74,6 +67,7 @@ I’m a full-stack developer with a passion for technology and programming. I en
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
 
 ---
+
 ### 🖥️ Systems & Networking 🖧
 - **Operating Systems**:
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
@@ -84,6 +78,14 @@ I’m a full-stack developer with a passion for technology and programming. I en
  ![Shell](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 - **System Administration**: Experienced in **Windows Server** and **Linux Administration** (Shell scripting, automation, and security management)
 - **Network Engineering**: Expertise in configuring and managing **routers**, **switches**, **firewalls**, and **VPNs**. Familiar with **MikroTik**, **RouterOS**, and **networking protocols** like TCP/IP, DNS, and DHCP.
+
+---
+
+### 📊 GitHub Stats and Languages Stats
+<p align="center">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=kan31da&show_icons=true&theme=tokyonight" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kan31da&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
+</p>
 
 ### 📈 My Streaks
 <p align="center">
